@@ -1,1 +1,5 @@
-# Rainml[全台降雨量.pptx](https://github.com/sinariyar/Rainml/files/7504261/default.pptx)
+![投影片1](https://user-images.githubusercontent.com/93243072/140916399-5ba25ea6-f3bf-452c-b642-0d07c27f7ac5.JPG)
+![投影片2](https://user-images.githubusercontent.com/93243072/140916418-23990c6c-e437-49a7-8e61-c9b67777c9f0.JPG)
+![投影片3](https://user-images.githubusercontent.com/93243072/140916431-b665d239-5746-422b-9a52-d379be2612d2.JPG)
+![投影片4](https://user-images.githubusercontent.com/93243072/140916437-044683c5-fde5-4a8b-8d90-aeace82f77a8.JPG)
+![投影片5](https://user-images.githubusercontent.com/93243072/140916445-47e96ec7-9a88-43b8-8daf-2ad731bc33f6.JPG)
